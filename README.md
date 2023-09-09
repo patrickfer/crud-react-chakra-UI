@@ -1,6 +1,6 @@
 # CRUD com React e Chakra UI
 
-link do projeto: https://crud-react-chakra-ui.netlify.app/
+Link do projeto: https://crud-react-chakra-ui.netlify.app/
 
 Este projeto é um estudo de um aplicativo CRUD (Create, Read, Update, Delete) desenvolvido usando React como framework principal e Chakra UI para a criação de componentes de interface do usuário. O objetivo é criar uma aplicação simples que permita ao usuário gerenciar registros de clientes em um banco de dados fictício armazenado localmente no navegador.
 

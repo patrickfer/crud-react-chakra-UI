@@ -1,4 +1,4 @@
-# CRUD com React e Chakra UI
+# CRUD com React e Chackra UI
 
 Link do projeto: https://crud-react-chakra-ui.netlify.app/
 
@@ -23,7 +23,7 @@ Exclusão de Cliente: Os usuários podem excluir clientes.
 # Componentes Principais
 ModalComp: Um componente reutilizável que fornece um modal para adição e edição de clientes.
 <br>
-DeleteIcon e EditIcon: Ícones fornecidos pela biblioteca Chakra UI para ações de exclusão e edição.
+DeleteIcon e EditIcon: Ícones fornecidos pela biblioteca Chackra UI para ações de exclusão e edição.
 
 # Banco de Dados Simulado
 O banco de dados dos clientes é simulado usando o localStorage. Os dados são armazenados na forma de uma lista JSON em localStorage com a chave "cad_cliente".
